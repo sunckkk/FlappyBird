@@ -2,7 +2,7 @@ var StateTwo = {
   preload: () => {
     game.load.image('bird', "img/bird.png")
     game.load.image('pipe', "img/pipe.png")
-    game.load.audio("music", "music/bgmusic.mp3")
+    game.load.audio("music", "music/bgmusic.amr")
   },
 
   create: () => {
